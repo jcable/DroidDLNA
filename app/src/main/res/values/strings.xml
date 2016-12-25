@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="appName">Droid DLNA</string>
+    <string name="appName">Fire DLNA</string>
     <string name="deviceDetails">device details</string>
     <string name="searchLAN">search network</string>
     <string name="switchRouter">switch network route</string>
@@ -78,13 +78,13 @@
     <string name="device_name">device name</string>
     <string name="dms_name">media server name</string>
     <string name="dms_name_breif">you can find local media server name on other devices</string>
-    <string name="device_local">DroidDLNA Media Server</string>
+    <string name="device_local">FireDLNA Media Server</string>
     <string name="player">media player</string>
     <string name="player_on">start local player service， other devices can push media files to local device</string>
     <string name="player_off">stop local player service， other devices can not push media files to local device</string>
     <string name="player_name">player name</string>
     <string name="player_name_breif">you can find local media player name on other devices</string>
-    <string name="player_name_local">DroidDLNA Local Render</string>
+    <string name="player_name_local">FireDLNA Local Render</string>
     <string name="net_setting">network setting</string>
     <string name="net_setting_breif">set and manage wireless network access points</string>
     <string name="slideshow">slide</string>
@@ -92,7 +92,7 @@
     <string name="thumbnails">zoom icon</string>
     <string name="thumbnails_breif">hide zooming icon</string>
     <string name="setting_msg">setting</string>
-    <string name="about_brief">DroidDLNA is a full featured UPnP/DLNA Control Point, UPnP Media Renderer and UPnP Media Server. This app is based on Cling 2.0, Cling is a UPnP-compatible software stack for Java environments.\n Play easily your music, videos and images on your phone and devices on your network (DLNA TVs, XBMC, WMP, ...), from your external UPnP Media Servers. Play your phone/tablet media to those devices.</string>
+    <string name="about_brief">FireDLNA might be a full featured UPnP/DLNA Control Point, UPnP Media Renderer and UPnP Media Server.</string>
 
     <!-- Menu -->
     <string name="menu_exit">exit</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="appName">DroidDLNA</string>
+    <string name="appName">FireDLNA</string>
     <string name="deviceDetails">设备详情</string>
     <string name="searchLAN">搜索网络</string>
     <string name="switchRouter">切换网络路由</string>
@@ -78,13 +78,13 @@
     <string name="device_name">设备名称</string>
     <string name="dms_name">媒体服务器名称</string>
     <string name="dms_name_breif">本地媒体服务器名称，,你可以在其他设备上查找它</string>
-    <string name="device_local">DroidDLNA Media Server</string>
+    <string name="device_local">FireDLNA Media Server</string>
     <string name="player">媒体播放器</string>
     <string name="player_on">开启本地播放器服务,其他设备可以通过DLNA/Upnp协议推送媒体文件到本机</string>
     <string name="player_off">关闭本地播放器服务,其他设备不可以通过DLNA/Upnp协议推送媒体文件到本机</string>
     <string name="player_name">播放器名称</string>
     <string name="player_name_breif">本地播放器名称,你可以在其他设备上查找它</string>
-    <string name="player_name_local">DroidDLNA Local Render</string>
+    <string name="player_name_local">FireDLNA Local Render</string>
     <string name="net_setting">网络设置</string>
     <string name="net_setting_breif">设置和管理无线网络接入点</string>
     <string name="slideshow">幻灯片</string>
@@ -92,7 +92,7 @@
     <string name="thumbnails">缩放图标</string>
     <string name="thumbnails_breif">缩放图标隐藏</string>
     <string name="setting_msg">设置</string>
-    <string name="about_brief">DroidDLNA能够让多媒体分享变得更加便利，通过无线网手机和电视/电脑/等实现多媒体的共享，轻松互相浏览/播放/控制各设备存储中的音乐、视频以及图片等.\nDroidDLNA具备如下功能：\n1支持DLNA所有协议(包括：DMP,DMS,DMC,DMR)，集DLNA播放器、DLNA服务器、DLNA客户端和DLNA播放控制器一体，功能丰富；\n 2 通过wifi和以太网自动扫描UPnP/DLNA媒体服务获得共享资源；\n 3 可以共享设备上多媒体资源给别人，也可以使用其他DLNA设备的多媒体资源；\n 4 可以浏览，播放，控制多媒体资源，支持图片和视频缩略图显示。</string>
+    <string name="about_brief">FireDLNA能够让多媒体分享变得更加便利，通过无线网手机和电视/电脑/等实现多媒体的共享，轻松互相浏览/播放/控制各设备存储中的音乐、视频以及图片等.\nFireDLNA具备如下功能：\n1支持DLNA所有协议(包括：DMP,DMS,DMC,DMR)，集DLNA播放器、DLNA服务器、DLNA客户端和DLNA播放控制器一体，功能丰富；\n 2 通过wifi和以太网自动扫描UPnP/DLNA媒体服务获得共享资源；\n 3 可以共享设备上多媒体资源给别人，也可以使用其他DLNA设备的多媒体资源；\n 4 可以浏览，播放，控制多媒体资源，支持图片和视频缩略图显示。</string>
 
     <!-- Menu -->
     <string name="menu_exit">退出</string>
